@@ -1,27 +1,28 @@
 # Razi Ullah
 
-I’m Razi, a software engineer working mainly with **Python, FastAPI, Django, and React**. I build backend features, improve database queries, and automate account-management workflows. I also work on billing, analytics, and integrations.
+I’m Razi, a **Full Stack AI Engineer** working with Python, FastAPI, Django, React, and TypeScript. I build frontend and backend features and improve existing AI pipelines. My work also includes billing, analytics, integrations, and workflow automation.
 
 ## Professional experience
 
 ### TechClan
 
-**Meridial Marketplace (client platform)**
-
-Contributed to a client platform with approximately **120,000 registered users**. My work included:
-
-- Updating FastAPI endpoints, business logic, and database-access layers as product requirements changed.
-- Diagnosing and resolving an N+1 query issue in bulk deletion.
-- Integrating Mixpanel and Datadog RUM for frontend actions, and adding backend tracing and events.
-- Building Temporal parent/child workflows for campaign-based Slack account management and Google offboarding, including Drive data transfer to an organizational account.
-
 **DealTitan / PDA**
 
 I ship Django features each week for investment and pitch-deck analysis applications. My work includes billing features and improvements to the existing AI pipeline.
 
+**Meridial Marketplace (client platform)**
+
+Contributed to a client platform with approximately **120,000 registered users**. My work included:
+
+- Integrating Mixpanel and Datadog RUM on the frontend, including custom events for key user actions.
+- Updating FastAPI endpoints, business logic, and database-access layers as product requirements changed.
+- Diagnosing and resolving an N+1 query issue in bulk deletion.
+- Adding Datadog tracing and events for key backend actions.
+- Building Temporal parent/child workflows for campaign-based Slack account management and Google offboarding, including Drive data transfer to an organizational account.
+
 ## Selected public projects
 
-- **[DriveBid](https://github.com/raziullah7/Auction_App_Using_Microservices)**: A real-time auction application with separate services for auctions, bidding, identity, search, and notifications.
+- **[DriveBid](https://github.com/raziullah7/Auction_App_Using_Microservices)**: A real-time vehicle auction app with a Next.js frontend and .NET microservices for auctions, bidding, identity, search, and live notifications.
 - **[ReconAI](https://github.com/raziullah7/ReconAI)**: **In development:** a FastAPI app that checks payment agreements against payment evidence using deterministic rules. The frontend is in progress, and AI extraction is planned.
 - **[OpsByRazi](https://github.com/raziullah7/OpsByRazi)**: A React and Express user-management app with PostgreSQL running in Docker and GitHub Actions for linting and builds.
 
@@ -37,6 +38,6 @@ The **[project index](docs/web-scraping.md)** covers all nine repositories, incl
 
 ## Core technologies
 
-- **Backend:** Python, FastAPI, Django, SQLAlchemy, PostgreSQL, C#/.NET, Node.js/Express
 - **Frontend:** React, TypeScript
+- **Backend:** Python, FastAPI, Django, SQLAlchemy, PostgreSQL, C#/.NET, Node.js/Express
 - **Automation and infrastructure:** Temporal, Docker, GitHub Actions, Datadog, Mixpanel, Selenium, Scrapy
