@@ -1,6 +1,6 @@
 # Razi Ullah
 
-Software engineer at **TechClan**, working primarily with **Python, FastAPI, Django, and React**. I develop backend features, connect application layers, and build integrations that support day-to-day product operations. My work includes business logic, database optimization, observability, billing, and workflow automation.
+Software engineer working primarily with **Python, FastAPI, Django, and React**. I develop backend features, connect application layers, and build integrations that support day-to-day product operations. My work includes business logic, database optimization, observability, billing, and workflow automation.
 
 ## Professional experience
 
