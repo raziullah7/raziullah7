@@ -1,43 +1,19 @@
 # Razi Ullah
 
-I’m Razi, a **Full Stack AI Engineer** working with Python, FastAPI, Django, React, and TypeScript. I build frontend and backend features and improve existing AI pipelines. My work also includes billing, analytics, integrations, and workflow automation.
+**Backend and full-stack engineer** working primarily with Python and JavaScript/TypeScript. I contribute to web applications at TechClan, with a focus on APIs, database behaviour, frontend integration, and workflow automation.
 
-## Professional experience
+My professional work includes FastAPI endpoint and data-access changes, Django features and billing workflows, analytics instrumentation with Mixpanel and Datadog, and Temporal workflows for account management and offboarding. I have also contributed improvements to an existing AI application pipeline.
 
-### TechClan
+## Selected projects
 
-**DealTitan / PDA**
+- **[ReconAI](https://github.com/raziullah7/ReconAI)** — In development: a FastAPI/PostgreSQL payment-reconciliation API using deterministic rules. Frontend integration is separate; AI extraction is planned.
+- **[DriveBid](https://github.com/raziullah7/Auction_App_Using_Microservices)** — A portfolio auction application using .NET microservices, Next.js, messaging, and SignalR.
+- **[OpsByRazi](https://github.com/raziullah7/OpsByRazi)** — A small React/Express user-management project with PostgreSQL and lint/build CI.
+- **[TikTok-Scraper](https://github.com/raziullah7/TikTok-Scraper)** — Educational Python/Selenium automation with JSON output and helper tests; live compatibility is unverified.
 
-I ship Django features each week for investment and pitch-deck analysis applications. My work includes billing features and improvements to the existing AI pipeline.
+**Core tools:** FastAPI, Django, React, TypeScript, PostgreSQL, Docker, Temporal, GitHub Actions, Selenium, and Scrapy. My portfolio also explores NestJS and C#/.NET.
 
-**Meridial Marketplace (client platform)**
+**Certification:** Microsoft Certified: Azure AI Fundamentals, October 2026.
 
-Contributed to a client platform with approximately **120,000 registered users**. My work included:
+[LinkedIn](https://www.linkedin.com/in/raziullah/) · [Scraping project index](docs/web-scraping.md)
 
-- Integrating Mixpanel and Datadog RUM on the frontend, including custom events for key user actions.
-- Updating FastAPI endpoints, business logic, and database-access layers as product requirements changed.
-- Diagnosing and resolving an N+1 query issue in bulk deletion.
-- Adding Datadog tracing and events for key backend actions.
-- Building Temporal parent/child workflows for campaign-based Slack account management and Google offboarding, including Drive data transfer to an organizational account.
-
-## Selected public projects
-
-- **[DriveBid](https://github.com/raziullah7/Auction_App_Using_Microservices)**: A real-time vehicle auction app with a Next.js frontend and .NET microservices for auctions, bidding, identity, search, and live notifications.
-- **[ReconAI](https://github.com/raziullah7/ReconAI)**: **In development:** a FastAPI app that checks payment agreements against payment evidence using deterministic rules. The frontend is in progress, and AI extraction is planned.
-- **[OpsByRazi](https://github.com/raziullah7/OpsByRazi)**: A React and Express user-management app with PostgreSQL running in Docker and GitHub Actions for linting and builds.
-
-## Additional contribution
-
-Contributed to **[ClinivaPro](https://clinivapro.egenesisai.cloud/)**, a dental practice management SaaS.
-
-## Python scraping and browser automation
-
-I’ve used Selenium, Scrapy, APIs, and HTML parsing to collect data from TikTok, Twitter, Audible, movie transcript sites, and practice datasets.
-
-The **[project index](docs/web-scraping.md)** covers all nine repositories, including what they collect, how they work, and whether they have been tested recently.
-
-## Core technologies
-
-- **Frontend:** React, TypeScript
-- **Backend:** Python, FastAPI, Django, SQLAlchemy, PostgreSQL, C#/.NET, Node.js/Express
-- **Automation and infrastructure:** Temporal, Docker, GitHub Actions, Datadog, Mixpanel, Selenium, Scrapy
