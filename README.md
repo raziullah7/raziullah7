@@ -1,6 +1,6 @@
 # Razi Ullah
 
-**Backend and full-stack engineer** working primarily with Python and JavaScript/TypeScript. I contribute to web applications at TechClan, with a focus on APIs, database behaviour, frontend integration, and workflow automation.
+**Full Stack AI Engineer** working primarily with Python and JavaScript/TypeScript. I contribute to AI application pipelines and web applications at TechClan, with a focus on AI integrations, APIs, database behaviour, frontend integration, and workflow automation.
 
 My professional work includes FastAPI endpoint and data-access changes, Django features and billing workflows, analytics instrumentation with Mixpanel and Datadog, and Temporal workflows for account management and offboarding. I have also contributed improvements to an existing AI application pipeline.
 
@@ -16,4 +16,3 @@ My professional work includes FastAPI endpoint and data-access changes, Django f
 **Certification:** Microsoft Certified: Azure AI Fundamentals, October 2026.
 
 [LinkedIn](https://www.linkedin.com/in/raziullah/) · [Scraping project index](docs/web-scraping.md)
-
